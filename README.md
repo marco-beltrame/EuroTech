@@ -12,4 +12,8 @@ Programma creato per analizzare i dati Eurotech della centralina dell'istituto A
 
 - Avviare 'App.py'
 
-
+# Creare un file eseguibile (.exe):
+#### Per rendere il programma nell'estensione .exe utilizzare il codice:
+```
+python setup.py build
+```
